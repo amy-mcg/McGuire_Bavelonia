@@ -1,5 +1,5 @@
-# McGuire_HS4
-Data files and associated code developed for McGuire et al. (in prep).
+# McGuire_Bavelonia
+Data files and associated code developed for McGuire et al. (in prep), an output of the ERC-funded RISeR project at the University of Leeds (https://riser.leeds.ac.uk). Details of the RISeR cores, including core imaging and laminography can be retrieved from Zenodo (https://zenodo.org/records/15584041).
 
 ## Palaeomagnetic data
 Contains the Palaeomagnetism.org (https://paleomagnetism.org) code used to develop the palaeomagnetic models published in the paper.
